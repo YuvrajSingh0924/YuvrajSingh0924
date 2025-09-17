@@ -64,7 +64,7 @@
 
 ## 📫 Connect with Me
 
-- 📍 Rajpura, Punjab  
+- 📍 Naya Nangal, Punjab  
 - 🌐 Portfolio: [Coming Soon]  
 - 📧 yuvraj132005@email.com
 
