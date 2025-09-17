@@ -1,8 +1,10 @@
-# Hi, I'm Yuvraj 👋
+<h2 title="Backend Dev • Cloud Enthusiast • DSA Solver 🚀">Hi, I'm Yuvraj 👋</h2>
 
 🎓 3rd-year Computer Science Engineering student  
 🔧 Backend Developer | ☁️ Cloud Enthusiast | 💡 DSA Problem Solver  
 🌌 Exploring ML and astronomy libraries for space-themed web projects
+
+![](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ---
 
@@ -26,9 +28,8 @@
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+[![Yuvraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvrajSingh0924&theme=tokyonight)](https://github.com/YuvrajSingh0924)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YuvrajSingh0924&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -36,11 +37,18 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YuvrajSingh0924&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repos by YuvrajSingh0924
+
+✨ Highlighting my most active and impactful repositories:
+
+| ⭐ Repo Name | 📊 Description | 🔗 Link |
+|------------|----------------|--------|
+| 🛠️ `spring-boot-database-thymeleaf` | CRUD operations with Spring Boot, Hibernate, and Thymeleaf | [View Repo](https://github.com/YuvrajSingh0924/spring-boot-database-thymeleaf) |
+| 🎬 `netflix_clone` | A sleek Netflix UI clone with dynamic content loading | [View Repo](https://github.com/YuvrajSingh0924/netflix_clone) |
 
 ---
-[![][(https://visitcount.itsvg.in/api?id=YuvrajSingh0924&icon=0&color=0)](https://visitcount.itsvg.in](https://github.com/YuvrajSingh0924/node_concept.git))
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
